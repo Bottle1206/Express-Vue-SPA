@@ -9,7 +9,7 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-    "watch": "webpack --watch"
+    "watch": "node build/build.js --watch"
   },
   "dependencies": {
     "@tbj/eslint-config-tbj": "^1.0.12",

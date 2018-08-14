@@ -3,7 +3,7 @@
     hello world！
     <p>{{msg}}</p>
     <div>webchang</div>span
-    索尼大法好
+    索尼大法好bbb---111
   </div>
 </template>
 

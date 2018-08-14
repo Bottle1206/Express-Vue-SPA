@@ -27,8 +27,8 @@ const webpackConfig = merge(baseWebpackConfig, {
     filename: utils.assetsPath('js/[name].[chunkhash].js'),
     chunkFilename: utils.assetsPath('js/[id].[chunkhash].js')
   },
-  // I add
-  watch: true,
+  // I add: 添加监听，修改文件实时打包到../../server/public中
+  watch: false,
   watchOptions: {
     aggregateTimeout: 300,
     poll: 1000,
