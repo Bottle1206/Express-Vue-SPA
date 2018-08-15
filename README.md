@@ -1,10 +1,10 @@
 # Express-Vue-SPA
 
-> 前后端分离分离项目，nodejs-express做服务端，vue全家桶做前端项目
+> 前后端分离项目，nodejs-express做服务端，vue全家桶做前端项目
 
 >nodejs-express构建基础应用
 
->vue-cli搭建vue项目，修改部分参数以适应个人需求，安装vue-router，vuex，vue-resource, stylus
+>vue-cli搭建vue项目，修改部分结构参数以适应个人需求，安装vue-router，vuex，vue-resource, stylus
 
 >迁入util/ repuest
 
