@@ -2,8 +2,8 @@
   <div class="hello">
     hello world！
     <p>{{msg}}</p>
-    <div>webchang</div>span
-    索尼大法好bbb---111
+    <div>A7R3</div>
+    索尼大法好
   </div>
 </template>
 
