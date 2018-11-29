@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import ah from '../util/request.js';
-import api from '../util/api.js';
 
 Vue.use(Vuex);
 
